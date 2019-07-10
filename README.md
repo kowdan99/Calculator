@@ -1,2 +1,2 @@
 # Calculator
-A iOS calculator app made with Swift
+Simple iOS calculator app made with Swift.
